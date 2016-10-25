@@ -1,0 +1,2 @@
+
+{"oversea_tabs":[{"type":"oversea","cat":"all","desc":"上新","api_url":"http://sapi.beibei.com/oversea/brand/%d-%d---gender_age-all.html"},{"type":"oversea","cat":"babythings_diaper","desc":"纸尿裤","api_url":"http://sapi.beibei.com/oversea/brand/%d-%d----babythings_diaper.html"},{"type":"oversea","cat":"milk_powder","desc":"奶粉","api_url":"http://sapi.beibei.com/oversea/brand/%d-%d----milk_powder.html"},{"type":"oversea","cat":"solid_food","desc":"辅食","api_url":"http://sapi.beibei.com/oversea/brand/%d-%d----solid_food.html"}]}
